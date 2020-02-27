@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!-- Répertoire téléphonique -->
 <repertoire>
-    <nom></nom>
+    <nom>Charih</nom>
+    <prenom>Khalil</prenom>
+    <tel type="portable">0606060606</tel>
+    <data>
+        <![CDATA[ <prenom>Khalil</prenom>]]>
+    </data>
 </repertoire>
