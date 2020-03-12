@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+    background-color: blue;
+}
+
+li {
+    list-style-type: none;
+    /*display : inline;*/
+}

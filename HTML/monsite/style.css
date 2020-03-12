@@ -1,0 +1,20 @@
+a:hover {
+    color : rgb(207, 32, 61);
+    background-color: blueviolet;
+}
+
+a:link {
+    color : rgb(56, 238, 80);
+}
+
+/*
+a:visited {
+    text-decoration:none;
+    background-color: blueviolet;
+    color: black;
+}
+
+a:active {
+    font-style: italic;
+}
+*/
